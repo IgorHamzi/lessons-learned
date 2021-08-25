@@ -23,3 +23,14 @@ p, li{
     font-weight: 700;
     text-decoration: none;
   }
+  .section_one{
+      padding: 30px 70px;
+  }
+  .learning-left{
+      float: left;
+      max-width: 35%;
+      margin-left: 60%;
+  }
+  .learning-rigth{
+      float: right;
+  }
