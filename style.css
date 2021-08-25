@@ -34,3 +34,11 @@ p, li{
   .learning-rigth{
       float: right;
   }
+  body{
+      background-color:rgb(253, 251, 251) ;
+  }
+  header{
+      background-color:skyblue;
+      position: fixed;
+      top: 0;
+  }
