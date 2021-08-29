@@ -14,7 +14,7 @@ h2, h3, h4 {
   color: green;
 }
 
-h2, h3 {
+h2 , h3 {
   font-size: 30px;
 }
 
@@ -45,7 +45,7 @@ header {
   position: fixed;
 }
 
-.tabela, td, th {
+.tabela , td , th {
   border: 1px solid black;
   border-collapse: collapse;
 }
