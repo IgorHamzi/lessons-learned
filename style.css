@@ -1,20 +1,20 @@
-*{
+* {
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', sans-serif;;
+  font-family: Montserrat, sans-serif;
   line-height: 2.2;
 }
 
 p , li {
   color: gray;
-   font-size: 18px;
+  font-size: 18px;
 }
 
-h2,h3,h4 {
-  color: green
+h2, h3, h4 {
+  color: green;
 }
 
-h2,h3 {
+h2, h3 {
   font-size: 30px;
 }
 
@@ -26,7 +26,7 @@ h4 {
 
 .button {
   color: white;
-  background-color:green; 
+  background-color: green;
   padding: 13px 28px;
   border-radius: 4px;
   font-size: 16px;
@@ -36,12 +36,13 @@ h4 {
 }
 
 body {
-  background-color:rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 header {
-  background-color:skyblue;
+  background-color: skyblue;
   top: 0;
+  position: fixed;
 }
 
 .tabela, td, th {
@@ -64,6 +65,6 @@ header {
 }
 
 .lado-direito {
-  text-align:left;
+  text-align: left;
   margin-right: 200px;
 }
